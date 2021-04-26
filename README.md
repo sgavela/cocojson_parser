@@ -1,5 +1,5 @@
 # cocojson_parser
-Parses bbd100k to_coco file to coco json file
+Parses bbd100k to_coco file to coco json file\n
 
 Usage:
  1-Download labels from bdd100k
